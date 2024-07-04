@@ -1,4 +1,3 @@
-pandas
-numpy
-seaborn
-#-e . ##autometicall call all the packages
+version https://git-lfs.github.com/spec/v1
+oid sha256:b94e30d35bb945e5a94e4d18a87f04e90c8c5780b36afcab6d63d2c1caea1682
+size 66
